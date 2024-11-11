@@ -1,4 +1,4 @@
-# Solbing Job Shop Schevuling Problem with Genetic Algorithm
+# Solving Job Shop Schevuling Problem with Genetic Algorithm
 
 ## Summary
 This report includes the review of the article titled "Opposition Based Genetic Optimization Algorithm with Cauchy Mutation" and the testing of its applications on the solution of the job shop scheduling problem.
