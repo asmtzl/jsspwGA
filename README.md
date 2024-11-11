@@ -105,6 +105,7 @@ This study provides valuable information on the diversity of the initial populat
 
 In conclusion, this study demonstrates the usability of genetic algorithms as an effective optimization tool on job shop scheduling problems. The obtained results provide a useful reference for researchers and industry experts who want to increase the problem-solving capabilities of genetic algorithms and optimize efficiency in complex manufacturing processes.
 
+![Alt text](jsspresults.png)
 ## Source
 Kumar, K. A., & Dhas, E. R. (2023). Opposition based genetic optimization algorithm with Cauchy mutation for job shop scheduling problem. Materials Today: Proceedings, 72, 3006-3011. 
 
